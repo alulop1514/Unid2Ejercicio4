@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Unidad2 - Ejercicio4</string>
+    <string name="generar_numero">Generar numero</string>
+    <string name="introduce_un_numero_del_1_al_100">Introduce un numero del 1 al 100</string>
+    <string name="comprobar">Comprobar</string>
+</resources>
